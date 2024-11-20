@@ -31,7 +31,7 @@ To install the project, clone the repository and install the requirements:
 
 # Clone the repository
 
-git clone https://github.com/Zoz-HF/snaky-detector
+git clone https://github.com/Ziyad-HF/snaky-detector
 
 ```
 
@@ -110,7 +110,7 @@ This project requires the following Python packages listed in the `requirements.
     <sub><b>Abdulrahman Shawky</b></sub></a>
     </td>
   <td align="center">
-    <a href="https://github.com/Zoz-HF" target="_black">
+    <a href="https://github.com/Ziyad-HF" target="_black">
     <img src="https://avatars.githubusercontent.com/u/99608059?v=4" width="150px;" alt="Ziyad El Fayoumy"/>
     <br />
     <sub><b>Ziyad El Fayoumy</b></sub></a>
